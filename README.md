@@ -1,6 +1,6 @@
 # ember-cli-addon-example
 
-This README outlines the details of collaborating on this Ember addon.
+A fresh ember-cli addon with no changes, used for testing against travis
 
 ## Installation
 
